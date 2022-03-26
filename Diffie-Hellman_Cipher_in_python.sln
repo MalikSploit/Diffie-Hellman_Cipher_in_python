@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Diffie-Hellman_Cipher_in_python", "Diffie-Hellman_Cipher_in_python.pyproj", "{AFCDF08E-8310-4534-85EF-C637884C38A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCDF08E-8310-4534-85EF-C637884C38A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCDF08E-8310-4534-85EF-C637884C38A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F71939-1D09-4269-BDCD-BB4C70C62C40}
+	EndGlobalSection
+EndGlobal
